@@ -13,8 +13,6 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 ## Table of Contents
 
 -   [Code of Conduct](#code-of-conduct)
--   [Project Details](#project-details)
--   [Extension setup](#extension-setup)
 -   [Project setup](#project-setup)
 -   [Getting Help](#getting-help)
 -   [Acknowledgements](#acknowledgements)
