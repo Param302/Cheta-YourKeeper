@@ -45,6 +45,6 @@ This project is licensed under the [Apache 2.0 License](./LICENSE). 🔐
 ## Contact 📧
 If you have any questions, suggestions, or feedback, feel free to reach out:
 
--   [![Email](https://img.shields.io/badge/Email-connectwithparam.30@gmail.com-red?logo=gmail&logoColor=white)](mailto:connectwithparam.30@gmail.com)
-<!-- -   [![Twitter](https://img.shields.io/badge/Twitter-@Param3021-blue?logo=twitter&logoColor=white)](https://twitter.com/Param3021) -->
-
+-   [![Email](https://img.shields.io/badge/Email-contact.porwalshreya@gmail.com-red?logo=gmail&logoColor=white)](mailto:contact.porwalshreya@gmail.com)
+-   [![Twitter](https://img.shields.io/badge/Twitter-@IamShreyaPorwal-blue?logo=twitter&logoColor=white)](https://twitter.com/IamShreyaPorwal)
+-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-@porwalshreya-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/porwalshreya)
